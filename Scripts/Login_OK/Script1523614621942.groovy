@@ -25,7 +25,7 @@ import com.kms.katalon.core.testdata.reader.SheetPOI as SheetPOI
 InternalData data = findTestData('TestData')
 
 try {
-    System.out.println('Hola-mundo-170418-1031')
+    System.out.println('Hola-mundo-170418-1031-integrado con git')
 
     //int prueba = data.getRowNumbers()
     //System.out.println(prueba)
