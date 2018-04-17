@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Login_OK</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fa7422e2-860b-40c3-8a10-aa87b79df89c</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>bc2a0b0e-cdc1-4c00-9fb6-c4468d2c5f77</id>
+      <masked>false</masked>
+      <name>usuario</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>af87f7fd-c3bb-492d-9dbd-8a401d9065ec</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Data Driven Benito Test Suite" time="119" tests="2" failures="0" errors="0">
+   <testsuite name="Data Driven Benito Test Suite" tests="2" failures="0" errors="0" time="119" timestamp="2018-04-17 10:24:04" hostname="Ibermatica - LM24398P.intranet.ibermatica" id="Test Suites/Data Driven Benito Test Suite">
+      <properties>
+         <property name="deviceName" value="Sony D2303 (Android 5.1.1)"/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="D:\\Usuarios\\Ibermatica\\Katalon Studio\\Data_Driven_Benito\\Reports\\Data Driven Benito Test Suite\\20180417_102401"/>
+         <property name="logFiles" value="D:\\Usuarios\\Ibermatica\\Katalon Studio\\Data_Driven_Benito\\Reports\\Data Driven Benito Test Suite\\20180417_102401\\appium.log, D:\\Usuarios\\Ibermatica\\Katalon Studio\\Data_Driven_Benito\\Reports\\Data Driven Benito Test Suite\\20180417_102401\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="Ibermatica - LM24398P.intranet.ibermatica"/>
+         <property name="os" value="Windows 7 64bit"/>
+         <property name="katalonVersion" value="5.3.1.1"/>
+         <property name="deviceOS" value="Android"/>
+         <property name="appiumVersion" value="1.6.4"/>
+         <property name="deviceModel" value="D2303"/>
+         <property name="hostAddress" value="192.168.43.86"/>
+         <property name="deviceManufacturer" value="Sony"/>
+         <property name="deviceId" value="ZH8006VQKP"/>
+         <property name="deviceName" value="Sony D2303 (Android 5.1.1)"/>
+         <property name="deviceOSVersion" value="5.1.1"/>
+      </properties>
+      <testcase name="Test Cases/Login_OK" classname="Test Cases/Login_OK" status="PASSED">
+         <system-out><![CDATA[2018-04-17 10:24:04 - [TEST_CASE][PASSED] - Test Cases/Login_OK: Test Cases/Login_OK
+
+2018-04-17 10:24:05 - [TEST_STEP][PASSED] - Statement - data = com.kms.katalon.core.testdata.TestDataFactory.findTestData(TestData): Test data is internal data, reading internal data
+
+2018-04-17 10:24:05 - [TEST_STEP][PASSED] - Statement - Try: Close app successfully
+
+2018-04-17 10:24:05 - [TEST_STEP][PASSED] - Statement - out.println("Hola-mundo-170418-952"): null
+
+2018-04-17 10:24:05 - [TEST_STEP][PASSED] - Statement - For (def index : data.getRowNumbers()): Close app successfully
+
+2018-04-17 10:24:05 - [TEST_STEP][PASSED] - startApplication: Started app at: 'C:\Appium_Demo\src\apk\AppiumDemo.apk'
+
+2018-04-17 10:24:32 - [MESSAGE][PASSED] - Started app at: 'C:\Appium_Demo\src\apk\AppiumDemo.apk'
+
+2018-04-17 10:24:32 - [TEST_STEP][PASSED] - Statement - out.println("Appium Service Address"): null
+
+2018-04-17 10:24:32 - [TEST_STEP][PASSED] - setText: Text '64026203E' has been set to element 'Object Repository/android.widget.EditText0 - N Documento'
+
+2018-04-17 10:24:39 - [MESSAGE][PASSED] - Text '64026203E' has been set to element 'Object Repository/android.widget.EditText0 - N Documento'
+
+2018-04-17 10:24:39 - [TEST_STEP][PASSED] - delay: Delayed 5 second(s)
+
+2018-04-17 10:24:44 - [MESSAGE][PASSED] - Delayed 5 second(s)
+
+2018-04-17 10:24:44 - [TEST_STEP][PASSED] - setText: Text 'Ibermatica' has been set to element 'Object Repository/android.widget.EditText1'
+
+2018-04-17 10:24:51 - [MESSAGE][PASSED] - Text 'Ibermatica' has been set to element 'Object Repository/android.widget.EditText1'
+
+2018-04-17 10:24:51 - [TEST_STEP][PASSED] - delay: Delayed 5 second(s)
+
+2018-04-17 10:24:56 - [MESSAGE][PASSED] - Delayed 5 second(s)
+
+2018-04-17 10:24:56 - [TEST_STEP][PASSED] - hideKeyboard: Keyboard is hidden
+
+2018-04-17 10:24:58 - [MESSAGE][PASSED] - Keyboard is hidden
+
+2018-04-17 10:24:58 - [TEST_STEP][PASSED] - tap: Tapped on element 'Object Repository/android.widget.Button0 - Acceder'
+
+2018-04-17 10:24:58 - [MESSAGE][PASSED] - Tapped on element 'Object Repository/android.widget.Button0 - Acceder'
+
+2018-04-17 10:24:58 - [TEST_STEP][PASSED] - waitForElementPresent: Element 'Object Repository/android.widget.TextView3 - Tarjetas' is present
+
+2018-04-17 10:24:59 - [MESSAGE][PASSED] - Element 'Object Repository/android.widget.TextView3 - Tarjetas' is present
+
+2018-04-17 10:24:59 - [TEST_STEP][PASSED] - pressBack: Press back button successfully
+
+2018-04-17 10:24:59 - [MESSAGE][PASSED] - Press back button successfully
+
+2018-04-17 10:24:59 - [TEST_STEP][PASSED] - closeApplication: Close app successfully
+
+2018-04-17 10:25:06 - [MESSAGE][PASSED] - Close app successfully]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Login_OK" classname="Test Cases/Login_OK" status="PASSED">
+         <system-out><![CDATA[2018-04-17 10:25:06 - [TEST_CASE][PASSED] - Test Cases/Login_OK: Test Cases/Login_OK
+
+2018-04-17 10:25:06 - [TEST_STEP][PASSED] - Statement - data = com.kms.katalon.core.testdata.TestDataFactory.findTestData(TestData): Test data is internal data, reading internal data
+
+2018-04-17 10:25:06 - [TEST_STEP][PASSED] - Statement - Try: Close app successfully
+
+2018-04-17 10:25:06 - [TEST_STEP][PASSED] - Statement - out.println("Hola-mundo-170418-952"): null
+
+2018-04-17 10:25:06 - [TEST_STEP][PASSED] - Statement - For (def index : data.getRowNumbers()): Close app successfully
+
+2018-04-17 10:25:06 - [TEST_STEP][PASSED] - startApplication: Started app at: 'C:\Appium_Demo\src\apk\AppiumDemo.apk'
+
+2018-04-17 10:25:30 - [MESSAGE][PASSED] - Started app at: 'C:\Appium_Demo\src\apk\AppiumDemo.apk'
+
+2018-04-17 10:25:30 - [TEST_STEP][PASSED] - Statement - out.println("Appium Service Address"): null
+
+2018-04-17 10:25:30 - [TEST_STEP][PASSED] - setText: Text '77001622Z' has been set to element 'Object Repository/android.widget.EditText0 - N Documento'
+
+2018-04-17 10:25:37 - [MESSAGE][PASSED] - Text '77001622Z' has been set to element 'Object Repository/android.widget.EditText0 - N Documento'
+
+2018-04-17 10:25:37 - [TEST_STEP][PASSED] - delay: Delayed 5 second(s)
+
+2018-04-17 10:25:42 - [MESSAGE][PASSED] - Delayed 5 second(s)
+
+2018-04-17 10:25:42 - [TEST_STEP][PASSED] - setText: Text 'Ibermatica' has been set to element 'Object Repository/android.widget.EditText1'
+
+2018-04-17 10:25:49 - [MESSAGE][PASSED] - Text 'Ibermatica' has been set to element 'Object Repository/android.widget.EditText1'
+
+2018-04-17 10:25:49 - [TEST_STEP][PASSED] - delay: Delayed 5 second(s)
+
+2018-04-17 10:25:54 - [MESSAGE][PASSED] - Delayed 5 second(s)
+
+2018-04-17 10:25:54 - [TEST_STEP][PASSED] - hideKeyboard: Keyboard is hidden
+
+2018-04-17 10:25:56 - [MESSAGE][PASSED] - Keyboard is hidden
+
+2018-04-17 10:25:56 - [TEST_STEP][PASSED] - tap: Tapped on element 'Object Repository/android.widget.Button0 - Acceder'
+
+2018-04-17 10:25:56 - [MESSAGE][PASSED] - Tapped on element 'Object Repository/android.widget.Button0 - Acceder'
+
+2018-04-17 10:25:56 - [TEST_STEP][PASSED] - waitForElementPresent: Element 'Object Repository/android.widget.TextView3 - Tarjetas' is present
+
+2018-04-17 10:25:57 - [MESSAGE][PASSED] - Element 'Object Repository/android.widget.TextView3 - Tarjetas' is present
+
+2018-04-17 10:25:57 - [TEST_STEP][PASSED] - pressBack: Press back button successfully
+
+2018-04-17 10:25:57 - [MESSAGE][PASSED] - Press back button successfully
+
+2018-04-17 10:25:57 - [TEST_STEP][PASSED] - closeApplication: Close app successfully
+
+2018-04-17 10:26:03 - [MESSAGE][PASSED] - Close app successfully]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2018-04-17 10:24:04 - [TEST_SUITE][PASSED] - Data Driven Benito Test Suite: Test Cases/Login_OK]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>
