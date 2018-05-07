@@ -8,6 +8,7 @@
       <TestSuiteRunConfiguration>
          <configuration>
             <groupName>Mobile</groupName>
+            <profileName>default</profileName>
             <runConfigurationData>
                <entry>
                   <key>deviceName</key>
