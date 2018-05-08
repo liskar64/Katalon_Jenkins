@@ -1,0 +1,60 @@
+1
+00:00:00,001 --> 00:00:00,003
+1. Statement - data = com.kms.katalon.core.testdata.TestDataFactory.findTestData(TestData)
+
+2
+00:00:00,025 --> 00:00:00,026
+5. Statement - Try
+
+3
+00:00:00,027 --> 00:00:00,027
+1. Statement - out.println("Hola-mundo-07/05/2018-844-integrado con git")
+
+4
+00:00:00,028 --> 00:00:00,032
+5. Statement - For (def index : data.getRowNumbers())
+
+5
+00:00:00,033 --> 00:00:00,033
+1. startApplication
+
+6
+00:00:26,428 --> 00:00:26,429
+5. Statement - out.println("Appium Service Address")
+
+7
+00:00:26,430 --> 00:00:26,431
+9. setText
+
+8
+00:00:33,184 --> 00:00:33,185
+13. delay
+
+9
+00:00:38,186 --> 00:00:38,187
+17. setText
+
+10
+00:00:45,196 --> 00:00:45,197
+21. delay
+
+11
+00:00:50,198 --> 00:00:50,199
+25. hideKeyboard
+
+12
+00:00:51,681 --> 00:00:51,682
+29. tap
+
+13
+00:00:52,140 --> 00:00:52,140
+33. waitForElementPresent
+
+14
+00:00:52,914 --> 00:00:52,916
+37. pressBack
+
+15
+00:00:53,245 --> 00:00:53,245
+41. closeApplication
+

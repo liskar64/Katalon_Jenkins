@@ -1,0 +1,10 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+Data Driven Benito Test Suite,,,2018-05-07 12:08:40,2018-05-07 12:11:09,"2m - 29,310s",PASSED
+,,,,,,
+Test Cases/Login_OK,,,2018-05-07 12:08:40,2018-05-07 12:10:06,"1m - 25,805s",PASSED
+Statement - data = com.kms.katalon.core.testdata.TestDataFactory.findTestData(TestData),,,2018-05-07 12:08:41,2018-05-07 12:08:41,"0,031s",PASSED
+Statement - Try,,,2018-05-07 12:08:41,2018-05-07 12:10:04,"1m - 22,661s",PASSED
+,,,,,,
+Test Cases/Login_OK,,,2018-05-07 12:10:06,2018-05-07 12:11:09,"1m - 3,169s",PASSED
+Statement - data = com.kms.katalon.core.testdata.TestDataFactory.findTestData(TestData),,,2018-05-07 12:10:06,2018-05-07 12:10:06,"0,037s",PASSED
+Statement - Try,,,2018-05-07 12:10:06,2018-05-07 12:11:07,"1m - 1,026s",PASSED
