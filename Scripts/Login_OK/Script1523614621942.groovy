@@ -72,7 +72,7 @@ try {
         //Mobile.takeScreenshot(fichero)
 
         //Mobile.takeScreenshot('c:pantallazo3.png')
-        k
+        
 
         //Mobile.setText(findTestObject('android.widget.EditText1'), 'Holaaa')
         Mobile.delay(5, FailureHandling.STOP_ON_FAILURE)
